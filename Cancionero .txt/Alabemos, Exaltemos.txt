@@ -25,7 +25,7 @@ VERSO x2
 
 PRE-CORO
 
-CORO 1
+CORO I
  C        D        Em
 El Señor es digno de toda la gloria
                  C        D   
@@ -33,7 +33,7 @@ nuestro Dios es digno de todo
       Em        
 el honor
 
-CORO 2
+CORO II
 C           D
 Aclamémosle con gozo, 
 Bm        Em
@@ -47,6 +47,6 @@ VERSO x1
 
 PRE-CORO
 
-CORO 1
+CORO I
 
-CORO 2 x3
+CORO II x3
